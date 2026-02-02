@@ -1,0 +1,51 @@
+ const carrito = [
+  {
+    id: 1,
+    nombre: "Pokemon Azul",
+    precio: 9.99,
+    moneda: "EUR",
+    imagen: "./img/pokemon-azul.jpg",
+    cantidad: 1,
+  },
+  {
+    id: 2,
+    nombre: "Pokemon Rojo",
+    precio: 7.99,
+    moneda: "EUR",
+    imagen: "./img/pokemon-rojo.jpg",
+    cantidad: 1,
+  },
+  {
+    id: 3,
+    nombre: "Pokemon Verde",
+    precio: 6.99,
+    moneda: "EUR",
+    imagen: "./img/pokemon-verde.jpg",
+    cantidad: 1,
+  },
+  {
+    id: 4,
+    nombre: "Pokemon Plata",
+    precio: 19.99,
+    moneda: "EUR",
+    imagen: "./img/pokemon-plata.jpg",
+    cantidad: 1,
+  },
+  {
+    id: 5,
+    nombre: "Pokemon Oro",
+    precio: 19.99,
+    moneda: "EUR",
+    imagen: "./img/pokemon-oro.jpg",
+    cantidad: 1,
+  },
+  {
+    id: 6,
+    nombre: "Sonic",
+    precio: 6.99,
+    moneda: "EUR",
+    imagen: "./img/sonic.jpg",
+    cantidad: 1,
+  },
+];
+
