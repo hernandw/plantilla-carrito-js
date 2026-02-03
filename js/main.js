@@ -146,3 +146,13 @@ const ShoppingCartTemplate = `
 cartAddRow.innerHTML = ShoppingCartTemplate 
 agregarProductCart.append(cartAddRow)
 }
+
+
+
+//agregar funcionalidad a la X que elimina el producto
+
+//Faltaria la validacion del producto existe
+
+//Faltaria la funcion para sumar los totales
+
+// faltaria una funcion que al modificar la cantidad, modifique el total
